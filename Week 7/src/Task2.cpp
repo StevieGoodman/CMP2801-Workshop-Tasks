@@ -31,6 +31,7 @@ Task2::Robot::Robot(string name)
     this->_name = name;
 }
 Task2::Robot::~Robot() {
+    this->_history = nullptr;
     delete this->_history;
 }
 
