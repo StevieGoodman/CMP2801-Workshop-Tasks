@@ -4,7 +4,7 @@ using namespace std;
 #include "src/Task2.h"
 #include "src/Task3.h"
 #include "src/Task4.h"
-// #include "src/Task5.h"
+#include "src/Task5.h"
 
 int main() {
     cout << "=== TASK 1 ===" << endl;
@@ -24,7 +24,7 @@ int main() {
     cout << endl;
 
     cout << "=== TASK 5 ===" << endl;
-    // Task5::run();
+    Task5::run();
     
     return 0;
 }
