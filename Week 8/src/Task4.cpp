@@ -19,5 +19,3 @@ int Task4::A::operator+(A* other) {
 }
 
 void Task4::A::print() { cout << "My value is " << value << endl; }
-
-Task4::A Task4::add(A a1, A a2) { return A(a1.getValue() + a2.getValue()); }
