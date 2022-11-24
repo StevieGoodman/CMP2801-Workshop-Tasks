@@ -1,6 +1,7 @@
 #include <iostream>
+#include "src/Task3.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    Task3::run();
     return 0;
 }

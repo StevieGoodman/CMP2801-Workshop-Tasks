@@ -3,4 +3,4 @@ project(Week_8)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Week_8 main.cpp)
+add_executable(Week_8 main.cpp src/Task3.cpp src/Task3.h)
