@@ -1,0 +1,3 @@
+/Users/stevie/Library/Mobile Documents/com~apple~CloudDocs/02 - University/Year 2/Advanced Programming/Assessment 1/Week 7/cmake-build-debug/CMakeFiles/Week_7.dir
+/Users/stevie/Library/Mobile Documents/com~apple~CloudDocs/02 - University/Year 2/Advanced Programming/Assessment 1/Week 7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/stevie/Library/Mobile Documents/com~apple~CloudDocs/02 - University/Year 2/Advanced Programming/Assessment 1/Week 7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
