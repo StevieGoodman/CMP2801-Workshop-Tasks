@@ -13,7 +13,7 @@ public:
         A(int v): value(v) {}
         int getValue();
         void print();
-        int operator+(A* other);
+        int operator+(A other);
     private:
         int value;
     };

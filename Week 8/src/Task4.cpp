@@ -14,8 +14,8 @@ void Task4::run() {
 
 int Task4::A::getValue() { return this->value; }
 
-int Task4::A::operator+(A* other) { 
-    return this->getValue() + other->getValue();
+int Task4::A::operator+(A other) { 
+    return this->getValue() + other.getValue();
 }
 
 void Task4::A::print() { cout << "My value is " << value << endl; }
