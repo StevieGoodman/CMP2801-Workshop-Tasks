@@ -14,7 +14,6 @@ void Task5::run() {
 int Task5::A::getValue() { return this->value; }
 
 Task5::A Task5::A::operator++(int) {
-    cout << value << endl;
     return Task5::A(++value);
 }
 
