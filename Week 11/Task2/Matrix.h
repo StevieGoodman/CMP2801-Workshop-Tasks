@@ -4,12 +4,11 @@
 template <typename T, int MAXROWS, int MAXCOLS>
 class Matrix {
 private:
-    T arr[0][0];
+    T arr[MAXROWS][MAXCOLS];
     int rows{};
     int cols{};
 public:
     Matrix(int rows, int cols) {
-        arr[MAXROWS][MAXCOLS];
         this->rows = rows;
         this->cols = cols;
     }
